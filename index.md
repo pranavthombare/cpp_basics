@@ -15,4 +15,3 @@ If you ask yourself "Why am I [insert chapter name]?", you'd get the answer in t
 2. Taking inputs from the user
 3. Using conditional statements
 4. Using loops for complex logic
-5. 

@@ -27,4 +27,3 @@ Table of Contents
 2. Taking inputs from the user
 3. Using conditional statements
 4. Using loops for complex logic
-5. 
