@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Introduction to C++
 
-You can use the [editor on GitHub](https://github.com/pranavthombare/cpp_basics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Many young students would argue that C++ is an old language and is outdated. However the truth is far beyond this. C++ is widely used in the industry and is one of the few languages which is used to interact with the computing hardware directly. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Applications range from being used in the finance industry with low latency programming to being used in embedded engineering where we have to fingure out a way to utilise the hardware as per our requirements. 
 
-### Markdown
+In fact many programming languages use C/C++ under the hood to leverage its blazing fast code execution. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this repository, I'll try to summarise all the basic things required to get started with C++, but in a practical way. (Which I think is much better). The order matters because every chapter has a goal. 
 
-```markdown
-Syntax highlighted code block
+If you ask yourself "Why am I [insert chapter name]?", you'd get the answer in the chapter.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pranavthombare/cpp_basics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Table of Contents
+1. Printing stuff
+2. Taking inputs from the user
+3. Using conditional statements
+4. Using loops for complex logic
